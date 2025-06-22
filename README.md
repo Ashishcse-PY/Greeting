@@ -1,4 +1,4 @@
-This repositories is only for Learning purpose  
+This repository is Asssignment pyhton project  
 # Numerical & Greeting
 We have practice with some numerical operators
 Addition , Subtraction, Multiplication,Didvision 
